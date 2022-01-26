@@ -1,6 +1,9 @@
 //
 //Log Hello World to the console
 //console.log("Hello World!!!");
+let js = 'amazing';
+//
+if (js === 'amazing') alert("JS is FUN!");
 //
 /*
 *VARIABLES AND DATATYPES
@@ -90,4 +93,3 @@ from their primitive datatypes to a more suitable datatype
     console.log(typeof agePeter);
 */
 /*OPERATOR PRECEDENCE*/
-    
